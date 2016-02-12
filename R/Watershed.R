@@ -1,8 +1,6 @@
-## this script defines a S4 class for Watershed objects
-## writen by J.A. Torres-Matallana
-## Institute for Geoinformatics, ifgi
-## University of Muenster, Germany
+## Copyright (c) 2013-16 by J.A. Torres-Matallana
 ## date: 9.08.2013
+## this script defines a S4 class for Watershed objects
 
 ##  S4 class Watershed
 
